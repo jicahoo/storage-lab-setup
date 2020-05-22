@@ -17,3 +17,7 @@
 ### References
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nfs-mount-on-ubuntu-18-04
 * https://help.ubuntu.com/community/SettingUpNFSHowTo
+### Nodes in my network
+* node-storage-server
+* node-storage-client-a
+* node-storage-client-b
