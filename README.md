@@ -3,6 +3,7 @@
 # Use VMware workstation
 * setup network.
 * VM -> newtork -> host-only,   you will get 192.168. IP.
+  * Note: if you have to install pkg to Ubuntu, may need set NAT network firstly to install required package.
 * Use ubuntu
 
 
